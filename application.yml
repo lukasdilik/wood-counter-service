@@ -1,0 +1,25 @@
+config:
+  url:
+  conf:
+    woods:
+      - AK
+      - BK
+      - CK
+      - DK
+      - EK
+      - FK
+      - GK
+      - HK
+      - IK
+      - JK
+      - KK
+      - LK
+      - MK
+      - NK
+      - OK
+      - PK
+    range:
+        from: 10
+        to: 102
+        step: 4
+
